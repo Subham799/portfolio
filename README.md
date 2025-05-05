@@ -1,6 +1,10 @@
 # Shubham Kandpal's Portfolio
 
 Welcome to my personal portfolio website! I'm Shubham Kandpal, a final-year B.Tech (IT) student passionate about web development. This portfolio showcases my skills, projects, and contact details as I aim to secure a role as a Web Developer Intern or Full Stack Trainee.
+![Portfolio Screenshot](Screenshot 2025-05-06 000752.png)
+## Live Demo
+Check out the live version of my portfolio here:  
+👉 [Shubham Kandpal's Portfolio](https://6818cfb5330870be48c4e7dc--willowy-selkie-ac30ee.netlify.app)
 
 ## About Me
 I am a final-year B.Tech (IT) student at GBPUAT with a CGPA of 7.0, passionate about web development. I have hands-on experience in JavaScript, React, Node.js, Express, and MongoDB, having built full-stack projects that practice frontend, backend, and basic database handling. With a strong problem-solving background (Codeforces Specialist, 1413 rating) and a quick learning ability, I aim to deliver real-world applications.
