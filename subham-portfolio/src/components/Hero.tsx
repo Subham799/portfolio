@@ -61,8 +61,11 @@ const Hero = () => {
       </div>
 
       <div className="main_right w-full md:w-1/2 flex justify-center">
-        <div className="blob w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-primary to-secondary opacity-80" />
-      </div>
+        
+<div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-lg">
+  <img src="/myimage.jpeg" className="w-full h-full object-cover" alt="Shubham Kandpal" />
+</div>
+
     </div>
   );
 };
